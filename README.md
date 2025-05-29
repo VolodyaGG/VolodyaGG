@@ -20,7 +20,8 @@
 #
 
 <p align="center">
-<img src="rap.jpg" width="30%"/>
+<img src="rap.jpg" width="30%" hspace=20px/>
+<img src="looks.jpg" width="30%" hspace/>
 </p>
 
 <p align="center">
@@ -38,6 +39,9 @@
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=VolodyaGG&theme=dark"></td><td width="30%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=VolodyaGG&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+> [!IMPORTANT]
+> Listen to good (my) [music](https://open.spotify.com/playlist/0FSNgA3RUBhTFlc9mK9xLG?si=xxbkEwRzTRaICodryowCMg).
 
 -----
 
